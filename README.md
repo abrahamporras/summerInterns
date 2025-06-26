@@ -117,7 +117,7 @@ https://github.com/ablab/quast/releases
 cd
 
 # unzip the tar file 
-tar -xvf quast-quast_5.3.0.tar
+tar -xvf quast-quast_5.3.0.tar.gz
 
 # bunch of files should be unpacked
 
